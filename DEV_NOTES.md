@@ -11,3 +11,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Added CONTRIBUTING.md stub
 - Improved log message formatting
+
+## 2026-03-23
+- Tidied up project structure
+- Updated dependencies to latest stable versions
